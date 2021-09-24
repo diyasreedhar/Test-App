@@ -19,6 +19,7 @@
 		62A3E74B26EC366A004DAC71 /* Page3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62A3E74A26EC366A004DAC71 /* Page3ViewController.swift */; };
 		62A3E74E26EEA4B5004DAC71 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = 62A3E74D26EEA4B5004DAC71 /* SwiftyJSON */; };
 		62A3E75126EEA4E4004DAC71 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 62A3E75026EEA4E4004DAC71 /* Alamofire */; };
+		62F13DB226F42FD000BE8454 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62F13DB126F42FD000BE8454 /* SignInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		62A3E73C26EC33AF004DAC71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		62A3E74826EC3653004DAC71 /* Page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2ViewController.swift; sourceTree = "<group>"; };
 		62A3E74A26EC366A004DAC71 /* Page3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page3ViewController.swift; sourceTree = "<group>"; };
+		62F13DB126F42FD000BE8454 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				62A3E71A26EC33AC004DAC71 /* SceneDelegate.swift */,
 				62A3E71C26EC33AC004DAC71 /* ViewController.swift */,
 				62A3E71E26EC33AC004DAC71 /* Main.storyboard */,
+				62F13DB126F42FD000BE8454 /* SignInViewController.swift */,
 				62A3E74826EC3653004DAC71 /* Page2ViewController.swift */,
 				62A3E74A26EC366A004DAC71 /* Page3ViewController.swift */,
 				62A3E72126EC33AE004DAC71 /* Assets.xcassets */,
@@ -278,6 +281,7 @@
 			files = (
 				62A3E71D26EC33AC004DAC71 /* ViewController.swift in Sources */,
 				62A3E71926EC33AC004DAC71 /* AppDelegate.swift in Sources */,
+				62F13DB226F42FD000BE8454 /* SignInViewController.swift in Sources */,
 				62A3E74926EC3653004DAC71 /* Page2ViewController.swift in Sources */,
 				62A3E74B26EC366A004DAC71 /* Page3ViewController.swift in Sources */,
 				62A3E71B26EC33AC004DAC71 /* SceneDelegate.swift in Sources */,
